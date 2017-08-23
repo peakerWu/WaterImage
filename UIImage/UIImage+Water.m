@@ -1,10 +1,10 @@
 //
 //  UIImage+Water.m
-//  CoreCategory
+//  LookPicture
 //
-//  Created by 冯成林 on 15/4/21.
-//  Copyright (c) 2015年 沐汐. All rights reserved.
-//
+//  Created by zhuke on 17/3/27.
+//  Copyright © 2017年 beelieve. All rights reserved.
+//  图片加水印
 
 #import "UIImage+Water.h"
 
